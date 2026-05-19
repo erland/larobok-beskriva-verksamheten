@@ -1,0 +1,26 @@
+title: Att beskriva verksamheten rätt
+subtitle: En praktisk handbok om förmågor, processer, rutiner och andra verksamhetsbeskrivningar
+author: Erland Lindmark
+language: sv
+difficulty: experienced-basic
+audience: Verksamhetsarkitekter, IT-arkitekter och verksamhetsutvecklare
+book_type: practical_textbook_handbook
+version: '0.14'
+date: '2026-05-19'
+identifier: urn:uuid:520f5a1f-23da-4bc3-a250-b5804410d748
+project_slug: att-beskriva-verksamheten-ratt
+chapters:
+- chapters/00-inledning.md
+- chapters/01-varfor-verksamhetsbeskrivningar-blir-svara.md
+- chapters/02-grundkartan-formaga-process-rutin.md
+- chapters/03-formagor-vad-organisationen-behover-kunna-gora.md
+- chapters/04-processer-hur-arbete-skapar-varde-over-tid.md
+- chapters/05-rutiner-och-instruktioner.md
+- chapters/06-tjanster-produkter-och-vardefloden.md
+- chapters/07-information-regler-roller-och-ansvar.md
+- chapters/08-valja-ratt-beskrivning-for-ratt-syfte.md
+- chapters/09-identifiera-och-avgransa-utan-att-fastna.md
+- chapters/10-beskriva-sa-att-andra-kan-anvanda-resultatet.md
+- chapters/11-vanliga-misstag-och-hur-du-undviker-dem.md
+- chapters/12-fran-modell-till-nytta.md
+cover_image: assets/cover/cover.png
